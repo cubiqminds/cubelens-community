@@ -1,0 +1,23 @@
+---
+name: Bug report
+about: Report a problem with the Cube Lens Android app
+title: ""
+labels: bug
+assignees: ""
+---
+
+## Device Information
+
+Device Name:
+
+Android Version:
+
+Language Settings:
+
+## What happened?
+
+Please describe the issue and what you expected to happen.
+
+## Screenshots or screen recording
+
+If possible, add screenshots or a short screen recording.
