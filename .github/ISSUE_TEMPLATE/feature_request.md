@@ -6,6 +6,8 @@ labels: enhancement
 assignees: ""
 ---
 
+Please 👍 this issue if you want also want this feature.
+
 ## Feature
 
 What would you like Cube Lens to do?

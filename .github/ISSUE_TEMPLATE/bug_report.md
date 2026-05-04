@@ -6,6 +6,8 @@ labels: bug
 assignees: ""
 ---
 
+Please 👍 this issue if you also encountered this bug.
+
 ## Device Information
 
 Device Name:
