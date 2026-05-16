@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an improvement or new feature for Cube Lens
+about: Suggest an improvement or new feature for CubeLens
 title: ""
 labels: enhancement
 assignees: ""
@@ -10,7 +10,7 @@ Please 👍 this issue if you want also want this feature.
 
 ## Feature
 
-What would you like Cube Lens to do?
+What would you like CubeLens to do?
 
 ## Why is this useful?
 

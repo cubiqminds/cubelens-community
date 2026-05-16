@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Report a problem with the Cube Lens Android app
+about: Report a problem with the CubeLens Android app
 title: ""
 labels: bug
 assignees: ""
